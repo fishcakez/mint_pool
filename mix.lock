@@ -1,0 +1,3 @@
+%{
+  "mint": {:git, "https://github.com/ericmj/mint.git", "9e6746643defcc25c1c79d30c478b5f4e81ff1c6", [ref: "9e6746643defcc25c1c79d30c478b5f4e81ff1c6"]},
+}
